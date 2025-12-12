@@ -117,7 +117,7 @@ I enjoy collaborating with engineering teams, solving real problems, and continu
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariam-hamido&theme=github_dark" height="180" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamadel00&theme=github_dark" height="180" />
 </p>
 
 ---
